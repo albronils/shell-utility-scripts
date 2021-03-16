@@ -1,2 +1,2 @@
 # shell-utility-scripts
-Utilities shell scripts for developers
+Utility shell scripts for developers
